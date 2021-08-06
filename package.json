@@ -1,0 +1,23 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build assets/css/test.css -o assets/css/prod.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chickengods/personal_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chickengods/personal_website/issues"
+  },
+  "homepage": "https://github.com/chickengods/personal_website#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.7"
+  }
+}

@@ -1,5 +1,0 @@
-This is the outline for the website
-
-1.homepage
-    a. nav bar
-    b. 
