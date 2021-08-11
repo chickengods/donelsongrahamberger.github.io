@@ -1,0 +1,21 @@
+layout
+1. make nav bar collaspse for phones
+2. create on going projects for Projects
+3. for reading have different sections for fun and research
+4. better color scheme
+5. add link footers to all pages
+6. could have it that when you over a link that you get a drop down
+with more specific options
+
+publications
+1. just title and author list with link to content
+
+functionality
+1. record users visits and data
+
+
+content
+1. intro on homepage
+2. add content in Projects
+3. create resume
+4. put some stuff into publications (can wait for SFN to confirm)
