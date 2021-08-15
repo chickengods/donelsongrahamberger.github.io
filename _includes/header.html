@@ -1,17 +1,12 @@
-<header>
-  <div class="items-center justify-between flex bg-gray-800 bg-opacity-90 px-12 py-4 my-4 mx-auto shadow-2xl w-11/12">
-    <div class="text-2xl text-white font-semibold inline-flex items-center">
-      <ul class="ml-5 px-2 py-1">
-        <li class="ml-5 px-2 py-1"><a href="{{site.url}}">Home</a></li>
-      </ul>
-    </div>
-    <div>
-        <ul class="flex text-white">
-            <li class="ml-5 px-2 py-1"><a href="{{site.url}}/projects">Projects</a></li>
-            <li class="ml-5 px-2 py-1"><a href="{{site.url}}/publications">Publications</a></li>
-            <li class="ml-5 px-2 py-1"><a href="{{site.url}}/resume">Resume</a></li>
-            <li class="ml-5 px-2 py-1"><a href="{{site.url}}/reading">Reading</a></li>
-        </ul>
-    </div>
-</div>
-</header>
+<nav class="font-sans flex flex-col text-center sm:flex-row sm:text-left sm:justify-between py-4 px-6 bg-white shadow sm:items-baseline w-full">
+  <div class="mb-2 sm:mb-0">
+    <a href="/home" class="text-2xl no-underline text-grey-darkest hover:text-blue-dark">Home</a>
+  </div>
+  <div>
+    <a href="{{site.url}}/projects" class="text-lg no-underline text-grey-darkest hover:text-blue-dark ml-2">Projects</a>
+    <a href="{{site.url}}/publications" class="text-lg no-underline text-grey-darkest hover:text-blue-dark ml-2">Publications</a>
+    <a href="{{site.url}}/resume" class="text-lg no-underline text-grey-darkest hover:text-blue-dark ml-2">Resume</a>
+    <a href="{{site.url}}/reading" class="text-lg no-underline text-grey-darkest hover:text-blue-dark ml-2">Reading</a>
+
+  </div>
+</nav>
