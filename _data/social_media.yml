@@ -1,11 +1,18 @@
-email:
-  title: Email
-github:
-  title: GitHub
-Linkedin:
-  title: Linkedin
-instagram:
-  title: Instagram
+- title: Email
+  link: donelsongrahamberger@gmail.com
+  image: email.svg
+
+- title: GitHub
+  link: https://github.com/chickengods
+  image: github.svg
+
+- title: Linkedin
+  link: https://www.linkedin.com/in/donelson-berger-846393173/
+  image: linkedin.svg
+
+- title: Instagram
+  link: https://www.instagram.com/berger_graham/
+  image: instagram.svg
 
 #when i make a reserach gate accout that should be added in
 #

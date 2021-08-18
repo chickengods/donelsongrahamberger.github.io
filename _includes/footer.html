@@ -1,0 +1,6 @@
+<footer>
+  {% for social in site.data.social_media %}
+
+  <a href="{{social.link}}" title="{{socail.title}}"><img src="/assets/icon/{{social.image}}" alt=""></a>
+  {% endfor %}
+</footer>

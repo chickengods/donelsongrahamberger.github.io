@@ -5,3 +5,16 @@
 @tailwind components;
 
 @tailwind utilities;
+
+
+@layer base{
+  img {
+    @apply mx-auto;
+  }
+  p {
+    @apply text-center;
+    @apply mx-auto;
+    @apply pt-8;
+    @apply pb-8;
+  }
+}
