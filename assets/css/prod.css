@@ -588,6 +588,37 @@ video {
   border-color: rgba(229, 231, 235, var(--tw-border-opacity));
 }
 
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+@media (min-width: 640px) {
+  p {
+    padding-left: 8rem;
+  }
+}
+
+@media (min-width: 640px) {
+  p {
+    padding-right: 8rem;
+  }
+}
+
+a{
+  --tw-text-opacity: 1;
+  color: rgba(59, 130, 246, var(--tw-text-opacity));
+}
+
 .container {
   width: 100%;
 }

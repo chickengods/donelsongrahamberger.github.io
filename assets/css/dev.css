@@ -1,5 +1,4 @@
----
----
+
 @tailwind base;
 
 @tailwind components;
@@ -7,7 +6,7 @@
 @tailwind utilities;
 
 
-@layer base{
+@layer base {
   img {
     @apply mx-auto;
   }
@@ -15,6 +14,12 @@
     @apply text-center;
     @apply mx-auto;
     @apply pt-8;
-    @apply pb-8;
+    @apply pr-4;
+    @apply pl-4;
+    @apply sm:pl-32;
+    @apply sm:pr-32;
+  }
+  a{
+    @apply text-blue-500;
   }
 }

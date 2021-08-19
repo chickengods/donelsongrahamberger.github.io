@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:css": "tailwind build assets/css/dev.css -o assets/css/prod.css"
+    "build:css": "tailwind build -i assets/css/dev.css -o assets/css/prod.css"
   },
   "repository": {
     "type": "git",
