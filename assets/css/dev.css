@@ -11,15 +11,26 @@
     @apply mx-auto;
   }
   p {
-    @apply text-center;
     @apply mx-auto;
     @apply pt-8;
     @apply pr-4;
     @apply pl-4;
-    @apply sm:pl-32;
-    @apply sm:pr-32;
+    @apply md:pl-64;
+    @apply md:pr-64;
+    @apply sm:pl-48;
+    @apply sm:pr-48;
   }
   a{
     @apply text-blue-500;
+  }
+  code{
+    @apply mx-auto;
+    @apply pt-8;
+    @apply pr-4;
+    @apply pl-4;
+    @apply md:pl-64;
+    @apply md:pr-64;
+    @apply sm:pl-48;
+    @apply sm:pr-48;
   }
 }
