@@ -15,22 +15,17 @@
     @apply pt-8;
     @apply pr-4;
     @apply pl-4;
-    @apply md:pl-64;
-    @apply md:pr-64;
-    @apply sm:pl-48;
-    @apply sm:pr-48;
+    @apply md:pl-16;
+    @apply md:pr-16;
+    @apply lg:pl-48;
+    @apply lg:pr-48;
+    @apply xl:pl-64;
+    @apply xl:pr-64;
+    @apply 2xl:pl-96;
+    @apply 2xl:pr-96;
+    @apply text-lg
   }
   a{
     @apply text-blue-500;
-  }
-  code{
-    @apply mx-auto;
-    @apply pt-8;
-    @apply pr-4;
-    @apply pl-4;
-    @apply md:pl-64;
-    @apply md:pr-64;
-    @apply sm:pl-48;
-    @apply sm:pr-48;
   }
 }
