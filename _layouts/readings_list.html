@@ -1,0 +1,19 @@
+---
+layout: blank
+---
+<main>
+  {{content}}
+  <div class=" min-h-screen pt-8 px-10 ">
+      {% for reading in site[page.collection] %}
+      {% if reading.t_use %}
+      <div class="flex justify-center pr-16 pl-16">
+        <h1 class="md:text-1xl text-xl hover:text-indigo-600 transition duration-200  font-bold text-gray-900 text-left">
+          <a href="{{reading.url}}">
+            {{reading.title}}
+          </a>
+        </h1>
+      </div>
+      {% endif %}
+      {% endfor %}
+  </div>
+</main>

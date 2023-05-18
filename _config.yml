@@ -48,12 +48,18 @@ collections:
   projects:
     output: true
     permalink: /:collection/:name
-  reading:
+  readings:
     output: true
     permalink: /:collection/:name
+    sort_by: order
   publications:
     output: true
     permalink: /:collection/:name
+  blog:
+    output: true
+    permalink: /:collection/:name
+    sort_by: date
+    reverse: true
 
 
     # Exclude from processing.
