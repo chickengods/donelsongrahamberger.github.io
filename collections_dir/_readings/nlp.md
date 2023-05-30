@@ -5,6 +5,7 @@ t_use: true
 order: 4
 ---
 
+- [Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory](https://arxiv.org/abs/2305.17144), May 30 2023
 - [First-principles on AI scaling](https://dynomight.net/scaling/), May 14 2023
 - [Why didn't we get GPT-2 in 2005?](https://dynomight.net/gpt-2/), May 14 2023
 - [The GTP-3 Architectrure, on a Napkin](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
