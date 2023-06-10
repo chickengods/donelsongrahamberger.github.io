@@ -5,6 +5,7 @@ t_use: true
 order: 2
 ---
 
+- [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://sites.google.com/view/op3-soccer), June 8 2023
 - [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044), May 31 2023
 - [A Deeper Look at Experience Replay](https://arxiv.org/abs/1712.01275)
 - [Emergent Tool Use From Multi-Agent Autocurricular](https://arxiv.org/abs/1909.07528)
