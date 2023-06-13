@@ -6,6 +6,7 @@ order: 1
 ---
 
 
+- [StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](https://arxiv.org/abs/2306.00984), June 12 2023
 - [A Generalist Agent](https://arxiv.org/abs/2205.06175)
 - [Differentiable Drawing and Sketching](https://arxiv.org/abs/2103.16194)
 - [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)
